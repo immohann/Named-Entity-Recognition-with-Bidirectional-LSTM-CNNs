@@ -4,4 +4,4 @@ Run_1:  epoch = 1
 Run_2:
 
  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+  git config --global user.name "Your Name
