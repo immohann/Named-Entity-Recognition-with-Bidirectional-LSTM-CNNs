@@ -10,9 +10,17 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 from keras.initializers import RandomUniform
 
+# tf.compat.v1.keras.initializers.RandomUniform(
+#     minval=-0.05,
+#     maxval=0.05,
+#     seed=None,
+#     dtype=tf.dtypes.float32
+# )
+
+
 print("STARTS")
 
-epochs = 1
+epochs = 50
 
 def tag_dataset(dataset):
     correctLabels = []
