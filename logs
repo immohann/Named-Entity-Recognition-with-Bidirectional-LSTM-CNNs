@@ -1,0 +1,7 @@
+Run_1:  epoch = 1
+    Dev-Data: Prec: 0.689, Rec: 0.241, F1: 0.357
+    Test-Data: Prec: 0.606, Rec: 0.225, F1: 0.329
+Run_2:
+
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
