@@ -1,11 +1,8 @@
+No. of epoch = 50
 Baseline:
     Dev-Data: F1: 93.82(+- 0.15)
     Test-Data: F1: 91.23
 
-    Dev-Data: F1: 94.03(+- 0.23)
-    Test-Data: F1: 91.17
-
-
-Run_1 epoch = 50:
-    Dev-Data: Prec: 0.917, Rec: 0.928, F1: 0.923
-    Test-Data: Prec: 0.881, Rec: 0.894, F1: 0.887
+ Our experiment 1:
+    Dev-Data: F1: 92.30
+    Test-Data: F1: 88.74
